@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Lato", sans-serif;
+}
+h1
+{
+text-align: center;
+font-size: xx-large;
+font-family: 'Courier New', Courier, monospace;
+color: #aa0202;
+background-color: #18070f;
+}
+#clock {
+	height: 20vh;
+	width: 20;
+	color: #aa0202;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 50px;
+}
