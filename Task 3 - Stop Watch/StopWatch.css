@@ -1,0 +1,59 @@
+#startBtn
+{   padding: 2px;
+    margin-top: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
+    width:  50px;
+    color: rgb(30, 11, 83);
+    background-color: lightgray;
+    border-radius: 23px;
+}
+#stopBtn
+{   
+    padding: 2px;
+    margin-top: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
+    width:50px;
+    color: rgb(30, 11, 83);
+    background-color: lightgray;
+    border-radius: 23px;
+}
+#resetBtn
+{
+    padding: 2px;
+    margin-top: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
+    width:50px;
+    color: rgb(30, 11, 83);
+    background-color: lightgray;
+    border-radius: 23px;
+}
+#lapsBtn
+{
+    padding: 2px;
+margin-top: 23px;
+margin-left: 10px;
+margin-right: 10px;
+height: 30px;
+width:50px;
+color: rgb(30, 11, 83);
+background-color: lightgray;
+border-radius: 23px;
+}
+.time
+{
+    font-size: x-large;
+    padding: 2px;
+    margin-top: 23px;
+    margin-left: 50px; 
+    margin-right: 10px;
+}
+h1
+{   background-color: lightgray;
+    color: rgb(9, 37, 4);
+}
